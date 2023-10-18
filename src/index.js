@@ -11,7 +11,7 @@ import Navegacion from './components/navbar.jsx'
  root.render(
     <>
         <Navegacion/>
-        <Saludar title="Te amo"/>
+        <Saludar title="ale marica"/>
         <Saludar title="Quiero comida"/>
         <Saludar title="Tengo hambre"/>
     </>
